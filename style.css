@@ -1,0 +1,43 @@
+p{
+  font-size:30px
+}
+#text{
+  background-color:lightgrey;
+  display:inline;
+  font-size:40px;
+  text-align:center;
+}
+img{
+  width:200px;
+}
+#g{
+   width:500px;
+}
+#d{
+  width:180px;
+}
+body{
+  background-color:#FD0006;
+}
+#h{
+  background-color:lightgrey;
+}
+a{
+  text-decoration:none;
+  font-size:50px;
+  color:#A63F00	
+}
+h1{
+  text-align:center;
+  background-color:lightgrey;
+}
+#t{
+  float:right
+}
+#y{
+  float:left
+}
+h2{
+  text-align:center;
+  background-color:lightgrey;
+}
